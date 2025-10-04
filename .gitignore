@@ -106,7 +106,6 @@ dmypy.json
 # Project-specific ignores
 
 # Data files
-*.csv
 *.json
 
 # Model and preprocessor files
